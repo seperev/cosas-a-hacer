@@ -39,6 +39,7 @@ Para generar los ejecutables de las diferentes plataformas
 	ionic build nombre_de_la_plataforma
 	
 ionic run nombre_de_la_plataforma
+
 	
 Configurar la validación de datos en un formulario y la forma de guardar datos en firebase:
 https://www.ion-book.com/blog/ionic2/formularios-firebase/
