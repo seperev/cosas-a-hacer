@@ -1,0 +1,18 @@
+Al crear usuarios o al modificar sus datos como en el caso de la modificación de datos al ver los datos personales o en el administrador, el nombre de usuario tiene que ser único.
+
+Añadir a los datos del usuario un campo que sea nombre de usuario para que haya un nombre de usuario a usar en la aplicación y un nombre real.
+
+Al reservar una pista tengo que comprobar en el método de reserva que esa pista no esté ya reservada. Y poner como nombre de la reserva el texto 'Reserva ' más el nombre del usuario que la reserva.
+Cuando se reserva una pista poner el enlace al usuario el nombre de usuario en vez del uid.
+
+En la parte de administrador, cuando vea las reservas, que se filtren por la fecha que se desee.
+
+Comprobar en las reglas de firebase que cuando se crean usuarios o reservas o pistas se introducen todos los datos necesarios.
+
+Voy a poner un uid unico en las reservas que va a ser la fecha seguida de la hora de inicio con un - .
+
+Preguntas:
+Cuando estoy viendo los datos de un usuario estoy recorriendo un array de usuarios sabiendo que solo hay un usuario en el array.
+Al modificar un usuario lo estoy eliminando y volviendo a crear.
+Como introduzco los valores de nivel de juego y los booleanos de abonado y notificaciones en los formularios cuando los valores ya están insertados.
+Como hacer la reserva de las pistas desde la parte del administrador.
