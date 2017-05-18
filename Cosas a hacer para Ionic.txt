@@ -49,12 +49,8 @@ cuenta ionic cloud
 	usuario: serper
 	gmail: seperev
 	contraseña: ***...
-	
-URLs para probar el envio de notificaciones:
-	Según pone, solo se puede probar cuando ya este emulandose la aplicación en algún dispositivo físico.
-		http://www.karmaemprendedor.com/push-notificacion-ionic-firebase/ 
-		https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59
-		https://docs.ionic.io/services/push/
+
+Cuando añado firebase a la aplicación de android studio siguiendo los pasos marcados en firebase. Una vez hechos si me da el error de que no encuentra el cliente con en un paquete con el nombre del paquete que he puesto en firebase, ir al archivo AndroidManifest.xml de la aplicación y modifico el nombre del package. En el caso de la prueba el archivo esta dentro de CordovaLib
 	
 	
 Actualizar un perfil de usuario
